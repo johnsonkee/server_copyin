@@ -613,3 +613,1344 @@ time cost 760.929971933s
 1015th adversary
 time cost 67.1824309826s
 1016th adversary
+933th adversary
+time cost 13.6769371033s
+934th adversary
+time cost 17.753070116s
+935th adversary
+time cost 8.36740112305s
+936th adversary
+time cost 14.3324267864s
+937th adversary
+time cost 20.5714969635s
+939th adversary
+time cost 1.78640389442s
+940th adversary
+time cost 13.7200388908s
+941th adversary
+time cost 30.3499991894s
+942th adversary
+time cost 23.1755669117s
+943th adversary
+time cost 22.0757918358s
+944th adversary
+time cost 16.1511662006s
+945th adversary
+time cost 22.9049949646s
+946th adversary
+time cost 19.3274991512s
+948th adversary
+time cost 30.7914879322s
+949th adversary
+time cost 25.7876391411s
+952th adversary
+time cost 3.20972204208s
+953th adversary
+time cost 30.4267609119s
+954th adversary
+time cost 39.1824390888s
+955th adversary
+time cost 54.2578320503s
+956th adversary
+time cost 3.82730388641s
+957th adversary
+time cost 30.7658309937s
+961th adversary
+time cost 21.4040749073s
+962th adversary
+time cost 28.2514960766s
+963th adversary
+time cost 32.1564621925s
+964th adversary
+time cost 85.3746049404s
+966th adversary
+time cost 44.6759200096s
+967th adversary
+time cost 121.824506044s
+968th adversary
+time cost 89.7413921356s
+970th adversary
+time cost 42.5267341137s
+971th adversary
+time cost 45.2206969261s
+972th adversary
+time cost 42.8471579552s
+973th adversary
+time cost 99.7465589046s
+974th adversary
+time cost 98.2771728039s
+975th adversary
+time cost 41.3453030586s
+976th adversary
+time cost 33.7505860329s
+977th adversary
+time cost 48.149217844s
+978th adversary
+time cost 53.6475470066s
+979th adversary
+time cost 61.1113660336s
+980th adversary
+time cost 101.103451967s
+981th adversary
+time cost 127.680284977s
+983th adversary
+time cost 71.6610298157s
+984th adversary
+time cost 82.7958519459s
+985th adversary
+time cost 133.63853097s
+986th adversary
+time cost 131.551950216s
+987th adversary
+time cost 8.73906207085s
+988th adversary
+time cost 131.046847105s
+989th adversary
+time cost 96.9461190701s
+990th adversary
+time cost 76.5338811874s
+991th adversary
+time cost 51.4525921345s
+993th adversary
+time cost 68.5580980778s
+994th adversary
+time cost 9.71413087845s
+995th adversary
+time cost 40.3050119877s
+996th adversary
+time cost 95.7812170982s
+997th adversary
+time cost 102.637001991s
+998th adversary
+time cost 90.9925041199s
+999th adversary
+time cost 81.9156799316s
+1000th adversary
+time cost 61.0036940575s
+1001th adversary
+time cost 91.4666378498s
+1002th adversary
+time cost 145.402834892s
+1003th adversary
+time cost 68.4611151218s
+1004th adversary
+time cost 95.4742541313s
+1005th adversary
+time cost 132.233839035s
+1006th adversary
+time cost 151.249639988s
+1007th adversary
+time cost 76.7256519794s
+1008th adversary
+time cost 94.403783083s
+1009th adversary
+time cost 178.296432018s
+1010th adversary
+time cost 109.865202904s
+1011th adversary
+time cost 279.55499506s
+1013th adversary
+time cost 133.306823015s
+1015th adversary
+time cost 13.1868300438s
+1016th adversary
+time cost 118.064792871s
+1017th adversary
+time cost 13.4178271294s
+1018th adversary
+time cost 217.327787876s
+1019th adversary
+time cost 88.7059009075s
+1020th adversary
+time cost 79.9739179611s
+1021th adversary
+time cost 131.989454985s
+1022th adversary
+time cost 105.482419968s
+1023th adversary
+time cost 14.3857271671s
+1024th adversary
+time cost 136.844361067s
+1025th adversary
+time cost 197.933768034s
+1026th adversary
+time cost 70.0439708233s
+1027th adversary
+time cost 106.99903512s
+1028th adversary
+time cost 143.50263381s
+1029th adversary
+time cost 176.088727951s
+1030th adversary
+time cost 258.726623058s
+1031th adversary
+time cost 160.979079008s
+1032th adversary
+time cost 16.2307629585s
+1033th adversary
+time cost 116.48475194s
+1034th adversary
+time cost 83.9409639835s
+1035th adversary
+time cost 222.000509024s
+1036th adversary
+time cost 202.124125957s
+1037th adversary
+time cost 133.921021938s
+1038th adversary
+time cost 163.78783083s
+1040th adversary
+time cost 204.144858122s
+1041th adversary
+time cost 272.431292057s
+1042th adversary
+time cost 177.466699123s
+1043th adversary
+time cost 306.606840849s
+1045th adversary
+time cost 200.695756912s
+1046th adversary
+time cost 193.460192919s
+1047th adversary
+time cost 239.390716076s
+1048th adversary
+time cost 191.177156925s
+1049th adversary
+time cost 413.660634995s
+1051th adversary
+time cost 256.523633003s
+1052th adversary
+time cost 119.267585039s
+1053th adversary
+time cost 141.210179806s
+1054th adversary
+time cost 213.175088167s
+1055th adversary
+time cost 21.3567988873s
+1056th adversary
+time cost 221.46386385s
+1057th adversary
+time cost 272.390173912s
+1058th adversary
+time cost 276.872846842s
+1059th adversary
+time cost 135.634711027s
+1060th adversary
+time cost 194.17951107s
+1061th adversary
+time cost 220.170680046s
+1063th adversary
+time cost 301.331084013s
+1064th adversary
+time cost 266.799552917s
+1065th adversary
+time cost 263.233664036s
+1066th adversary
+time cost 395.127382994s
+1067th adversary
+time cost 286.397127151s
+1069th adversary
+time cost 22.9972188473s
+1070th adversary
+time cost 204.589584827s
+1071th adversary
+time cost 22.8543729782s
+1072th adversary
+time cost 22.870650053s
+1073th adversary
+time cost 22.8035409451s
+1074th adversary
+time cost 232.150279999s
+1075th adversary
+time cost 251.513674021s
+1076th adversary
+time cost 332.098326921s
+1077th adversary
+time cost 238.42946291s
+1079th adversary
+time cost 160.271969795s
+1080th adversary
+time cost 233.508841038s
+1081th adversary
+time cost 137.706301928s
+1083th adversary
+time cost 197.4212358s
+1084th adversary
+time cost 230.254468918s
+1085th adversary
+time cost 183.010356903s
+1086th adversary
+time cost 208.717753887s
+1087th adversary
+time cost 371.489248991s
+1088th adversary
+time cost 410.961579084s
+1090th adversary
+time cost 199.144369841s
+1091th adversary
+time cost 156.677747011s
+1092th adversary
+time cost 78.4620809555s
+1093th adversary
+time cost 236.922450066s
+1094th adversary
+time cost 193.956151009s
+1095th adversary
+time cost 247.819508791s
+1096th adversary
+time cost 28.0410199165s
+1097th adversary
+time cost 381.85432601s
+1098th adversary
+time cost 219.119544983s
+1099th adversary
+time cost 239.600739002s
+1100th adversary
+time cost 321.05926609s
+1101th adversary
+time cost 57.6648449898s
+1102th adversary
+time cost 371.27480793s
+1103th adversary
+time cost 187.078796864s
+1104th adversary
+time cost 207.142256021s
+1105th adversary
+time cost 307.057541132s
+1106th adversary
+time cost 270.446745157s
+1108th adversary
+time cost 689.047970057s
+1109th adversary
+time cost 448.272274017s
+1110th adversary
+time cost 255.31262207s
+1111th adversary
+time cost 187.39923501s
+1113th adversary
+time cost 312.928941011s
+1115th adversary
+time cost 457.361898899s
+1116th adversary
+time cost 256.246519089s
+1117th adversary
+time cost 171.268594027s
+1118th adversary
+time cost 465.293487072s
+1120th adversary
+time cost 338.882204056s
+1121th adversary
+time cost 350.874053955s
+1122th adversary
+time cost 387.520972013s
+1123th adversary
+time cost 391.850803852s
+1124th adversary
+time cost 33.394712925s
+1126th adversary
+time cost 417.205751896s
+1127th adversary
+time cost 216.587250948s
+1129th adversary
+time cost 285.298137903s
+1130th adversary
+time cost 206.722377062s
+1131th adversary
+time cost 241.895028114s
+1132th adversary
+time cost 173.617202997s
+1133th adversary
+time cost 360.665028095s
+1134th adversary
+time cost 292.279980898s
+1136th adversary
+time cost 269.095619917s
+1137th adversary
+time cost 412.403815985s
+1139th adversary
+time cost 178.949487209s
+1140th adversary
+time cost 337.400482893s
+1141th adversary
+time cost 248.992620945s
+1142th adversary
+time cost 325.417099953s
+1144th adversary
+time cost 426.182377815s
+1145th adversary
+time cost 426.006644964s
+1146th adversary
+time cost 432.088814974s
+1148th adversary
+time cost 468.879235029s
+1150th adversary
+time cost 410.853436947s
+1151th adversary
+time cost 362.734005928s
+1152th adversary
+time cost 285.364828825s
+1154th adversary
+time cost 196.146190882s
+1155th adversary
+time cost 680.027590036s
+1156th adversary
+time cost 238.069777012s
+1157th adversary
+time cost 359.653931141s
+1158th adversary
+time cost 385.701231003s
+1160th adversary
+time cost 390.428036928s
+1161th adversary
+time cost 664.828495979s
+1162th adversary
+time cost 423.232504845s
+1163th adversary
+time cost 383.827888966s
+1165th adversary
+time cost 384.436634064s
+1166th adversary
+time cost 484.584701061s
+1167th adversary
+time cost 516.881953001s
+1168th adversary
+time cost 419.965342045s
+1169th adversary
+time cost 352.743984938s
+1170th adversary
+time cost 284.359209061s
+1171th adversary
+time cost 310.803490162s
+1172th adversary
+time cost 484.659707069s
+1173th adversary
+time cost 28.4719510078s
+1174th adversary
+time cost 416.935497046s
+1175th adversary
+time cost 432.612259865s
+1176th adversary
+time cost 565.454771042s
+1177th adversary
+time cost 469.82329917s
+1179th adversary
+time cost 427.793420076s
+1180th adversary
+time cost 345.139422894s
+1182th adversary
+time cost 210.466650009s
+1183th adversary
+time cost 652.638664961s
+1184th adversary
+time cost 395.395822048s
+1186th adversary
+time cost 336.829648972s
+1187th adversary
+time cost 380.537011147s
+1188th adversary
+time cost 723.447198153s
+1189th adversary
+time cost 293.433306932s
+1190th adversary
+time cost 684.563656092s
+1191th adversary
+time cost 303.3477211s
+1193th adversary
+time cost 962.538248062s
+1195th adversary
+time cost 301.242791891s
+1196th adversary
+time cost 479.23895812s
+1197th adversary
+time cost 418.643300056s
+1199th adversary
+time cost 368.425167799s
+1201th adversary
+time cost 307.087699175s
+1203th adversary
+time cost 421.013360023s
+1205th adversary
+time cost 375.00728488s
+1207th adversary
+time cost 374.434485197s
+1208th adversary
+time cost 49.1201200485s
+1210th adversary
+time cost 506.161685944s
+1211th adversary
+time cost 377.505378008s
+1212th adversary
+time cost 49.410474062s
+1213th adversary
+time cost 397.010808945s
+1214th adversary
+time cost 346.057245016s
+1215th adversary
+time cost 280.862754107s
+1216th adversary
+time cost 432.535318851s
+1217th adversary
+time cost 649.764765024s
+1218th adversary
+time cost 499.492455959s
+1219th adversary
+time cost 581.183848143s
+1220th adversary
+time cost 634.132081985s
+1221th adversary
+time cost 547.024468184s
+1222th adversary
+time cost 324.575233936s
+1223th adversary
+time cost 686.457535982s
+1224th adversary
+time cost 243.070526123s
+1225th adversary
+time cost 538.25348711s
+1227th adversary
+time cost 699.63360405s
+1228th adversary
+time cost 52.5849399567s
+1229th adversary
+time cost 278.021423101s
+1230th adversary
+time cost 487.682794809s
+1231th adversary
+time cost 544.295342922s
+1232th adversary
+time cost 50.3250048161s
+1233th adversary
+time cost 357.017066002s
+1235th adversary
+time cost 733.516420841s
+1236th adversary
+time cost 634.763685942s
+1237th adversary
+time cost 465.611507177s
+1238th adversary
+time cost 640.514997005s
+1239th adversary
+time cost 364.535223961s
+1240th adversary
+time cost 1462.12530899s
+1241th adversary
+time cost 471.292862892s
+1244th adversary
+time cost 567.210358143s
+1245th adversary
+time cost 590.868963003s
+1246th adversary
+time cost 434.894952059s
+1249th adversary
+time cost 709.025216818s
+1250th adversary
+time cost 274.185964108s
+1252th adversary
+time cost 439.995240927s
+1253th adversary
+time cost 54.9064331055s
+1254th adversary
+time cost 1013.72078681s
+1255th adversary
+time cost 705.831533909s
+1257th adversary
+time cost 561.312310934s
+1258th adversary
+time cost 356.733202934s
+1261th adversary
+time cost 561.967707872s
+1262th adversary
+time cost 640.663609028s
+1264th adversary
+time cost 933.276151896s
+1265th adversary
+time cost 758.980015993s
+1266th adversary
+time cost 429.80731988s
+1267th adversary
+time cost 448.121845961s
+1268th adversary
+time cost 78.0880749226s
+1269th adversary
+time cost 293.05914402s
+1271th adversary
+time cost 821.495613098s
+1272th adversary
+time cost 345.100586891s
+1273th adversary
+time cost 477.75582099s
+1275th adversary
+time cost 850.198971033s
+1276th adversary
+time cost 399.248674154s
+1277th adversary
+time cost 300.689543962s
+1278th adversary
+time cost 720.436737061s
+1279th adversary
+time cost 561.718441963s
+1280th adversary
+1221th adversary
+time cost 11.504324913s
+1222th adversary
+time cost 20.198225975s
+1223th adversary
+time cost 23.8159270287s
+1224th adversary
+time cost 14.3873260021s
+1225th adversary
+time cost 30.6632120609s
+1227th adversary
+time cost 13.6961240768s
+1228th adversary
+time cost 2.13021802902s
+1229th adversary
+time cost 26.0011081696s
+1230th adversary
+time cost 32.1521129608s
+1231th adversary
+time cost 29.3593411446s
+1232th adversary
+time cost 2.76368403435s
+1233th adversary
+time cost 18.0071110725s
+1235th adversary
+time cost 16.4060118198s
+1236th adversary
+time cost 35.8650028706s
+1237th adversary
+time cost 32.0604400635s
+1238th adversary
+time cost 34.1777038574s
+1239th adversary
+time cost 35.1270189285s
+1240th adversary
+time cost 35.58644104s
+1241th adversary
+1043th adversary
+time cost 10.067483902s
+1045th adversary
+time cost 8.99139404297s
+1046th adversary
+time cost 14.5515370369s
+1047th adversary
+time cost 29.2604961395s
+1048th adversary
+1221th adversary
+time cost 10.9419159889s
+1222th adversary
+time cost 16.9054460526s
+1223th adversary
+time cost 22.782697916s
+1224th adversary
+time cost 10.3544778824s
+1225th adversary
+time cost 30.2760109901s
+1227th adversary
+time cost 28.7757980824s
+1228th adversary
+time cost 2.13759803772s
+1229th adversary
+time cost 18.6130619049s
+1230th adversary
+time cost 37.3891079426s
+1231th adversary
+time cost 29.1198751926s
+1232th adversary
+time cost 2.85032606125s
+1233th adversary
+time cost 26.4994950294s
+1235th adversary
+time cost 25.410697937s
+1236th adversary
+time cost 39.0107719898s
+1237th adversary
+time cost 36.1304709911s
+1238th adversary
+time cost 60.8045709133s
+1239th adversary
+time cost 31.8647050858s
+1240th adversary
+time cost 41.4297749996s
+1241th adversary
+time cost 31.5263040066s
+1244th adversary
+time cost 47.2460441589s
+1245th adversary
+time cost 60.5124499798s
+1246th adversary
+time cost 46.7283198833s
+1249th adversary
+time cost 67.4347889423s
+1250th adversary
+time cost 39.5251970291s
+1252th adversary
+time cost 30.0514290333s
+1253th adversary
+time cost 5.62355494499s
+1254th adversary
+time cost 34.3911972046s
+1255th adversary
+time cost 73.6243638992s
+1257th adversary
+time cost 76.8099868298s
+1258th adversary
+time cost 47.6955039501s
+1261th adversary
+time cost 79.7215647697s
+1262th adversary
+time cost 52.9639661312s
+1264th adversary
+time cost 105.204154015s
+1265th adversary
+time cost 64.0987780094s
+1266th adversary
+time cost 97.4353010654s
+1267th adversary
+time cost 67.4027528763s
+1268th adversary
+time cost 10.0806279182s
+1269th adversary
+time cost 48.3842442036s
+1271th adversary
+time cost 94.3163859844s
+1272th adversary
+time cost 51.2368340492s
+1273th adversary
+time cost 48.6549649239s
+1275th adversary
+time cost 55.1189250946s
+1276th adversary
+time cost 56.0368208885s
+1277th adversary
+time cost 48.5810527802s
+1278th adversary
+time cost 131.962121964s
+1279th adversary
+time cost 50.2642710209s
+1280th adversary
+time cost 146.973400831s
+1284th adversary
+time cost 146.369659901s
+1285th adversary
+time cost 85.5293450356s
+1286th adversary
+time cost 66.7584929466s
+1287th adversary
+time cost 101.792853832s
+1288th adversary
+time cost 54.9904489517s
+1290th adversary
+time cost 73.029706955s
+1292th adversary
+time cost 83.9822790623s
+1293th adversary
+time cost 130.049355984s
+1294th adversary
+time cost 114.172828913s
+1295th adversary
+time cost 127.778078079s
+1296th adversary
+time cost 101.140010834s
+1297th adversary
+time cost 130.225883007s
+1298th adversary
+time cost 89.8900351524s
+1300th adversary
+time cost 92.0313079357s
+1301th adversary
+time cost 11.7862958908s
+1302th adversary
+time cost 83.2871580124s
+1303th adversary
+time cost 68.2371270657s
+1304th adversary
+time cost 172.183656931s
+1305th adversary
+time cost 117.483108044s
+1306th adversary
+time cost 97.6847000122s
+1307th adversary
+time cost 174.028728008s
+1308th adversary
+time cost 145.179276943s
+1309th adversary
+time cost 71.1259028912s
+1310th adversary
+time cost 13.0838809013s
+1311th adversary
+time cost 190.648247957s
+1312th adversary
+time cost 8.8259677887s
+1313th adversary
+time cost 139.627747059s
+1314th adversary
+time cost 165.295330048s
+1315th adversary
+time cost 109.355065107s
+1316th adversary
+time cost 188.140535116s
+1317th adversary
+1298th adversary
+time cost 8.55841588974s
+1300th adversary
+1298th adversary
+time cost 142.055658102s
+1298th adversary
+1298th adversary
+time cost 30.5029051304s
+1298th adversary
+1298th adversary
+time cost 68.6378729343s
+1300th adversary
+time cost 75.2443370819s
+1301th adversary
+1298th adversary
+1298th adversary
+time cost 9.26498913765s
+1300th adversary
+time cost 12.673167944s
+1301th adversary
+time cost 0.788506031036s
+1302th adversary
+time cost 18.3215129375s
+1303th adversary
+time cost 9.88135719299s
+1304th adversary
+time cost 26.6904599667s
+1305th adversary
+time cost 27.3043339252s
+1306th adversary
+time cost 14.2553408146s
+1307th adversary
+time cost 19.534168005s
+1308th adversary
+time cost 25.8467879295s
+1309th adversary
+time cost 36.1283199787s
+1310th adversary
+time cost 2.70927095413s
+1311th adversary
+time cost 36.6630430222s
+1312th adversary
+time cost 2.97996687889s
+1313th adversary
+time cost 19.1360127926s
+1314th adversary
+time cost 33.5050811768s
+1315th adversary
+time cost 31.763365984s
+1316th adversary
+time cost 51.5487799644s
+1317th adversary
+time cost 29.6537749767s
+1318th adversary
+time cost 44.1069951057s
+1321th adversary
+time cost 25.446751833s
+1322th adversary
+time cost 46.1598889828s
+1323th adversary
+time cost 42.3446159363s
+1324th adversary
+time cost 45.1516580582s
+1325th adversary
+time cost 28.6824431419s
+1327th adversary
+time cost 65.3193387985s
+1329th adversary
+time cost 55.6686010361s
+1330th adversary
+time cost 77.0462260246s
+1331th adversary
+time cost 5.5964858532s
+1332th adversary
+time cost 56.2245779037s
+1333th adversary
+time cost 67.2487590313s
+1334th adversary
+time cost 48.1861341s
+1335th adversary
+time cost 76.4545500278s
+1336th adversary
+time cost 93.7789189816s
+1338th adversary
+time cost 120.960046053s
+1339th adversary
+time cost 6.89404892921s
+1340th adversary
+time cost 76.8445580006s
+1341th adversary
+time cost 84.5878081322s
+1342th adversary
+time cost 81.5718841553s
+1343th adversary
+time cost 84.8880870342s
+1344th adversary
+time cost 61.8682999611s
+1345th adversary
+time cost 63.2859101295s
+1346th adversary
+time cost 149.624310017s
+1347th adversary
+time cost 135.522437096s
+1348th adversary
+time cost 62.5673651695s
+1349th adversary
+time cost 134.943165064s
+1350th adversary
+time cost 126.318039894s
+1351th adversary
+time cost 95.6085929871s
+1352th adversary
+time cost 70.0351858139s
+1353th adversary
+time cost 80.3562788963s
+1354th adversary
+time cost 55.5324389935s
+1357th adversary
+time cost 51.2794258595s
+1358th adversary
+time cost 157.194411993s
+1359th adversary
+time cost 130.343964815s
+1360th adversary
+time cost 77.2830548286s
+1361th adversary
+time cost 101.22795105s
+1362th adversary
+time cost 11.120937109s
+1363th adversary
+time cost 64.2272439003s
+1365th adversary
+time cost 79.1132750511s
+1366th adversary
+time cost 121.31054306s
+1367th adversary
+time cost 85.5486080647s
+1368th adversary
+time cost 70.456619978s
+1369th adversary
+time cost 72.0474770069s
+1370th adversary
+time cost 108.460196018s
+1371th adversary
+time cost 115.174757004s
+1372th adversary
+time cost 107.203982115s
+1373th adversary
+time cost 166.996637106s
+1374th adversary
+time cost 12.7619040012s
+1375th adversary
+time cost 90.1213819981s
+1376th adversary
+time cost 47.3687040806s
+1377th adversary
+time cost 152.791716099s
+1379th adversary
+time cost 153.498683929s
+1380th adversary
+time cost 63.4493710995s
+1381th adversary
+time cost 198.198911905s
+1382th adversary
+time cost 121.390758038s
+1383th adversary
+time cost 86.0747499466s
+1384th adversary
+time cost 109.04253006s
+1385th adversary
+time cost 188.549701929s
+1386th adversary
+time cost 83.6295819283s
+1387th adversary
+time cost 139.403321028s
+1388th adversary
+time cost 74.2744889259s
+1389th adversary
+time cost 105.240556002s
+1390th adversary
+time cost 157.653692007s
+1391th adversary
+time cost 102.152512074s
+1392th adversary
+time cost 156.184961081s
+1395th adversary
+time cost 130.806996107s
+1396th adversary
+time cost 153.874708891s
+1397th adversary
+time cost 91.0335388184s
+1398th adversary
+time cost 145.135210991s
+1399th adversary
+time cost 165.883080006s
+1400th adversary
+time cost 173.570372105s
+1401th adversary
+time cost 219.96244812s
+1402th adversary
+time cost 62.4572970867s
+1403th adversary
+time cost 214.857067108s
+1404th adversary
+time cost 150.648853064s
+1405th adversary
+time cost 222.950757027s
+1406th adversary
+time cost 198.202140808s
+1407th adversary
+time cost 216.837524891s
+1408th adversary
+time cost 159.064771891s
+1409th adversary
+time cost 117.901778936s
+1411th adversary
+time cost 162.838968992s
+1412th adversary
+time cost 182.296751022s
+1413th adversary
+time cost 107.91725421s
+1414th adversary
+time cost 108.588213205s
+1416th adversary
+time cost 206.471220016s
+1417th adversary
+time cost 103.742907047s
+1418th adversary
+time cost 183.945612192s
+1419th adversary
+time cost 257.963483095s
+1420th adversary
+time cost 154.662830114s
+1421th adversary
+time cost 88.1131410599s
+1422th adversary
+time cost 205.339820862s
+1423th adversary
+time cost 343.036930084s
+1424th adversary
+time cost 198.215270042s
+1425th adversary
+time cost 120.405272007s
+1426th adversary
+time cost 228.399098158s
+1427th adversary
+time cost 226.766119957s
+1428th adversary
+time cost 227.461436987s
+1429th adversary
+time cost 235.896848202s
+1430th adversary
+time cost 313.919019938s
+1431th adversary
+time cost 157.853003025s
+1432th adversary
+time cost 272.936071157s
+1434th adversary
+time cost 222.77818203s
+1435th adversary
+time cost 285.723616123s
+1437th adversary
+time cost 264.915318012s
+1438th adversary
+time cost 125.25960803s
+1439th adversary
+time cost 399.571480036s
+1440th adversary
+time cost 104.154580832s
+1442th adversary
+time cost 233.632059813s
+1443th adversary
+time cost 557.419994116s
+1444th adversary
+time cost 24.4177029133s
+1445th adversary
+time cost 273.855504036s
+1446th adversary
+time cost 125.498873949s
+1448th adversary
+time cost 193.810727119s
+1449th adversary
+time cost 408.488771915s
+1450th adversary
+time cost 248.547195911s
+1451th adversary
+time cost 138.132964134s
+1452th adversary
+time cost 286.82532382s
+1454th adversary
+time cost 192.438497782s
+1455th adversary
+time cost 196.205687046s
+1456th adversary
+time cost 178.610920191s
+1457th adversary
+time cost 294.174612045s
+1458th adversary
+time cost 143.713898897s
+1459th adversary
+time cost 190.37034893s
+1460th adversary
+time cost 202.551692963s
+1461th adversary
+time cost 27.0351569653s
+1462th adversary
+time cost 227.546756983s
+1464th adversary
+time cost 27.2804069519s
+1467th adversary
+time cost 229.471045971s
+1468th adversary
+time cost 185.356767178s
+1469th adversary
+time cost 205.677144051s
+1471th adversary
+time cost 442.046591997s
+1472th adversary
+time cost 188.911238909s
+1473th adversary
+time cost 238.067610025s
+1474th adversary
+time cost 212.602582932s
+1475th adversary
+time cost 172.512936115s
+1477th adversary
+time cost 28.8906700611s
+1478th adversary
+time cost 261.32723999s
+1479th adversary
+time cost 450.822432041s
+1480th adversary
+time cost 157.341424942s
+1481th adversary
+time cost 427.363940954s
+1482th adversary
+time cost 252.255079031s
+1483th adversary
+time cost 302.556934118s
+1484th adversary
+time cost 345.310664177s
+1485th adversary
+time cost 368.245102167s
+1486th adversary
+time cost 194.893289089s
+1487th adversary
+time cost 385.487421036s
+1488th adversary
+time cost 274.037615061s
+1489th adversary
+time cost 475.378756046s
+1490th adversary
+time cost 364.29014492s
+1491th adversary
+time cost 202.144953012s
+1492th adversary
+time cost 509.934231997s
+1493th adversary
+time cost 284.690213919s
+1495th adversary
+time cost 309.082529068s
+1496th adversary
+time cost 252.642181873s
+1497th adversary
+time cost 347.858441114s
+1498th adversary
+time cost 338.157492876s
+1499th adversary
+time cost 340.635373116s
+1501th adversary
+time cost 309.084286928s
+1503th adversary
+time cost 202.464358807s
+1504th adversary
+time cost 334.377249956s
+1505th adversary
+time cost 214.869199991s
+1506th adversary
+time cost 423.197858095s
+1507th adversary
+time cost 399.28587389s
+1508th adversary
+time cost 36.4728870392s
+1509th adversary
+time cost 523.542577028s
+1510th adversary
+time cost 38.183232069s
+1511th adversary
+time cost 805.274295092s
+1512th adversary
+time cost 294.858986139s
+1513th adversary
+time cost 585.283174992s
+1515th adversary
+time cost 247.693551064s
+1516th adversary
+time cost 144.042397976s
+1517th adversary
+time cost 525.278918982s
+1518th adversary
+time cost 782.760704994s
+1519th adversary
+time cost 538.826004982s
+1520th adversary
+time cost 350.840300083s
+1521th adversary
+time cost 529.537179947s
+1523th adversary
+time cost 178.891781092s
+1524th adversary
+time cost 467.904896975s
+1528th adversary
+time cost 385.464398146s
+1529th adversary
+time cost 472.61571312s
+1531th adversary
+time cost 304.639598131s
+1532th adversary
+time cost 252.991762877s
+1533th adversary
+time cost 307.412612915s
+1534th adversary
+time cost 308.298089027s
+1535th adversary
+time cost 540.342067003s
+1536th adversary
+time cost 412.991024017s
+1537th adversary
+time cost 499.2331779s
+1538th adversary
+time cost 515.821844816s
+1539th adversary
+time cost 482.178083897s
+1540th adversary
+time cost 850.774926901s
+1541th adversary
+time cost 267.256766081s
+1542th adversary
+time cost 585.810530901s
+1544th adversary
+time cost 349.364406109s
+1545th adversary
+time cost 260.251677036s
+1546th adversary
+time cost 303.484474897s
+1547th adversary
+time cost 483.680922031s
+1548th adversary
+time cost 337.890396118s
+1550th adversary
+time cost 428.223216057s
+1552th adversary
+1516th adversary
+time cost 7.83156895638s
+1517th adversary
+time cost 16.5294499397s
+1518th adversary
+time cost 22.5910811424s
+1519th adversary
+time cost 9.91771101952s
+1520th adversary
+time cost 17.7463419437s
+1521th adversary
+time cost 20.4890339375s
+1523th adversary
+time cost 9.96428489685s
+1524th adversary
+time cost 37.1658289433s
+1528th adversary
+time cost 41.0728311539s
+1529th adversary
+time cost 25.7882518768s
+1531th adversary
+time cost 30.2278459072s
+1532th adversary
+time cost 19.1940209866s
+1533th adversary
+time cost 19.3053090572s
+1534th adversary
+time cost 30.4228439331s
+1535th adversary
+time cost 28.6525099277s
+1536th adversary
+time cost 23.9651839733s
+1537th adversary
+time cost 55.633067131s
+1538th adversary
+time cost 40.7783298492s
+1539th adversary
+time cost 33.0523481369s
+1540th adversary
+time cost 34.4027450085s
+1541th adversary
+time cost 40.239002943s
+1542th adversary
+time cost 64.5469861031s
+1544th adversary
+time cost 66.3720171452s
+1545th adversary
+time cost 73.225525856s
+1546th adversary
+time cost 37.8541829586s
+1547th adversary
+time cost 93.7834339142s
+1548th adversary
+time cost 46.3332259655s
+1550th adversary
+time cost 84.5376939774s
+1552th adversary
+time cost 95.9363520145s
+1554th adversary
+time cost 6.48213982582s
+1555th adversary
+time cost 114.017807961s
+1556th adversary
+time cost 56.2477250099s
+1557th adversary
+time cost 48.3184168339s
+1558th adversary
+time cost 63.7553920746s
+1560th adversary
+time cost 59.5608310699s
+1561th adversary
+time cost 80.500505209s
+1563th adversary
+time cost 95.4997601509s
+1564th adversary
+time cost 45.4617538452s
+1565th adversary
+time cost 69.5844120979s
+1566th adversary
+time cost 70.1090500355s
+1568th adversary
+time cost 65.1206479073s
+1569th adversary
+time cost 8.3442928791s
+1570th adversary
+time cost 8.31696987152s
+1571th adversary
+time cost 8.48316884041s
+1572th adversary
+time cost 90.4981491566s
+1573th adversary
+time cost 67.6376729012s
+1574th adversary
+time cost 117.483225107s
+1575th adversary
+time cost 95.4851779938s
+1576th adversary
+time cost 91.3551459312s
+1577th adversary
+time cost 193.666580915s
+1578th adversary
+time cost 138.404148102s
+1579th adversary
+time cost 121.922258139s
+1580th adversary
+time cost 168.932571888s
+1581th adversary
+time cost 10.6904370785s
+1582th adversary
+time cost 99.1257791519s
+1583th adversary
